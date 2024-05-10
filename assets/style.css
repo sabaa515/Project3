@@ -24,7 +24,8 @@ nav i{
     justify-self: center;
 }
 .background{
-    background-color: #735930eb;
+    background-color: #b59388
+    ;
     height: 100vh;
     width: 100%;
     z-index: -1;
